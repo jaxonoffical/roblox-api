@@ -19,4 +19,4 @@ A Node.js script that fetches Roblox user information including their username, 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/roblox-profile-fetcher.git
+git clone https://github.com/jaxonoffical/roblox-profile-fetcher.git
